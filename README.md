@@ -1,6 +1,6 @@
-# Lanchonete Manager
+# Gerenciador de Lanchonete
 
-Bem-vindo ao Lanchonete Manager! Este é um simples sistema de gerenciamento de lanchonete que permite aos clientes selecionar lanches, adicionar itens adicionais e finalizar a compra, gerando uma comanda detalhada.
+Bem-vindo ao Gerenciador de Lanchonete! Este é um simples sistema de gerenciamento de lanchonete que permite aos clientes selecionar lanches, adicionar itens adicionais e finalizar a compra, gerando uma comanda detalhada.
 
 ## Como funciona
 
@@ -15,6 +15,10 @@ Bem-vindo ao Lanchonete Manager! Este é um simples sistema de gerenciamento de 
 5. **Forma de Pagamento**: O cliente escolherá a forma de pagamento desejada.
 
 6. **Criação da Comanda**: Ao finalizar a transação, uma comanda será gerada, incluindo o nome do cliente, os lanches escolhidos, as quantidades e o valor total.
+
+## Compilação
+
+Certifique-se de ter um compilador C instalado em sua máquina.
 
 ## Autor
 
